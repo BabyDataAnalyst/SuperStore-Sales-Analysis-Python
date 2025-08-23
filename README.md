@@ -23,3 +23,9 @@ It was done as part of my Data Analyst learning journey using Python.
 ## 🚀 How to Run
 1. Clone/download this repo
 2. Install dependencies:
+
+## 📈 Sample Output
+![Total Sales By Category](<img width="700" height="713" alt="Total Sales By Category" src="https://github.com/user-attachments/assets/10a9dbf1-0dd7-4538-b11e-d613108c63da" />
+)
+![Correlation Heatmap](<img width="920" height="557" alt="Heatmap" src="https://github.com/user-attachments/assets/d52b2685-b59c-4312-a708-6176dacc41ae" />
+)
