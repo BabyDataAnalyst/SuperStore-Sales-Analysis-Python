@@ -24,14 +24,14 @@ It was done as part of my Data Analyst learning journey using Python.
 ## 📃 Insights from the Charts
 
 1️⃣ Sales by Region
-The West and East regions are leading in sales, contributing the most revenue.
-In contrast, Central and South regions are lagging behind, indicating potential areas for sales improvement or strategic focus.
+- The West and East regions are leading in sales, contributing the most revenue.
+- In contrast, Central and South regions are lagging behind, indicating potential areas for sales improvement or strategic focus.
 
 2️⃣ Monthly Sales Trend
-Sales show seasonal fluctuations with several peaks and dips, but the overall trend is positive and growing steadily from 2015 to 2018.
-A significant spike in late 2018 suggests strong year-end performance, possibly due to holiday sales or seasonal promotions.
+- Sales show seasonal fluctuations with several peaks and dips, but the overall trend is positive and growing steadily from 2015 to 2018.
+- A significant spike in late 2018 suggests strong year-end performance, possibly due to holiday sales or seasonal promotions.
 
 3️⃣ Sales by Category
-Technology dominates as the top-selling category, outperforming Furniture and Office Supplies.
-However, Furniture and Office Supplies are not far behind, showing consistent contribution to overall revenue.
-This indicates a balanced sales mix, but Technology is the key revenue driver.
+- Technology dominates as the top-selling category, outperforming Furniture and Office Supplies.
+- However, Furniture and Office Supplies are not far behind, showing consistent contribution to overall revenue.
+- This indicates a balanced sales mix, but Technology is the key revenue driver.
