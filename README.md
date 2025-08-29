@@ -1,5 +1,5 @@
 # SuperStore-Sales-Analysis-Python 📊
-This project analyzes sales data to uncover insights into revenue, and regional performance.  
+This practice project analyzes sales data to uncover insights into revenue, and regional performance.  
 It was done as part of my Data Analyst learning journey using Python.
 
 ## 📂 Files in this Repository
@@ -35,3 +35,15 @@ It was done as part of my Data Analyst learning journey using Python.
 - Technology dominates as the top-selling category, outperforming Furniture and Office Supplies.
 - However, Furniture and Office Supplies are not far behind, showing consistent contribution to overall revenue.
 - This indicates a balanced sales mix, but Technology is the key revenue driver.
+
+4️⃣ Weekly Sales Trend (2015–2018)
+- Overall, sales show a steady upward trend across the years.
+- However, the trend is highly volatile, with sharp peaks and drops, suggesting sales could be influenced by seasonal events, discounts, or bulk purchases.
+
+5️⃣ Outlier Analysis in Sales
+- The sales distribution shows a large number of outliers (very high sales orders compared to the majority).
+- These outliers may represent bulk corporate purchases or special deals, which significantly impact total revenue.
+
+6️⃣ Correlation Between Numerical Features
+- Numerical features like Row ID, Postal Code, and Sales show very weak or negligible correlation with each other.
+- This means these identifiers don’t influence sales directly and are mainly structural data.
